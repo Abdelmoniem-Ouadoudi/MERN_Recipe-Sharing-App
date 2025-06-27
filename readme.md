@@ -54,13 +54,6 @@ A beautiful, modern recipe sharing platform built with the MERN stack. Share you
 - **CORS** - Cross-origin resource sharing
 - [Live Demo](#live-demo)
 
-- ## Screenshots
- 
- ![Screenshot1](./public/static/images/website1.png);
- ![Screenshot2](./public/static/images/website2.png);
- ![Screenshot3](./public/static/images/website3.png);
- ![Screenshot4](./public/static/images/website4.png);
-
 ## Features
 
 1. **User Authentication**: Secure user authentication and registration system.
