@@ -1,0 +1,134 @@
+db.recipes.insertMany([
+  {
+    "title": "Classic French Toast",
+    "ingredients": [
+      "4 slices bread",
+      "2 eggs",
+      "1/2 cup milk",
+      "1/2 teaspoon vanilla extract",
+      "1/4 teaspoon ground cinnamon",
+      "Butter or oil for frying",
+      "Maple syrup, for serving"
+    ],
+    "instructions": "In a bowl, whisk together eggs, milk, vanilla, and cinnamon. Dip each slice of bread in the mixture, coating both sides.\nHeat butter or oil in a skillet over medium heat. Fry bread slices until golden brown on both sides. Serve with maple syrup.",
+    "imageUrl": "https://www.allrecipes.com/thmb/MiT8urbY4piT4VeZc0IwayEnQLo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2509191-french-toast-i-photo-by-cooking-monster-bryan-5e016eae61574a0b85a234fa411e220c.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Chicken Caesar Salad",
+    "ingredients": [
+      "2 chicken breasts, grilled and sliced",
+      "1 head romaine lettuce, chopped",
+      "1/4 cup grated Parmesan cheese",
+      "1/2 cup croutons",
+      "Caesar dressing"
+    ],
+    "instructions": "Place chopped lettuce in a bowl. Top with grilled chicken, Parmesan, and croutons. Drizzle Caesar dressing over the salad and toss to coat.",
+    "imageUrl": "https://www.allrecipes.com/thmb/NGPEAZpoRoI2MorXupooxRnCStk=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/808802-easy-and-fast-cajun-chicken-caesar-salad-hungryallweighs-4x3-1-04ed98b0deec4ece921bac98548d6f0e.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Beef Tacos",
+    "ingredients": [
+      "500g ground beef",
+      "1 packet taco seasoning",
+      "1/2 cup water",
+      "8 taco shells",
+      "Shredded lettuce",
+      "Chopped tomatoes",
+      "Grated cheese",
+      "Sour cream"
+    ],
+    "instructions": "Cook beef in a skillet until browned. Add taco seasoning and water. Simmer for 5 minutes.\nSpoon meat into taco shells and top with lettuce, tomatoes, cheese, and sour cream.",
+    "imageUrl": "https://www.allrecipes.com/thmb/Hpi4-u09UTmpyKyEE-60q5qTBvo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/771109-2c890c5b2b55404dae4fb26886b7e24b.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Vegetable Stir-Fry",
+    "ingredients": [
+      "2 tablespoons vegetable oil",
+      "1 bell pepper, sliced",
+      "1 carrot, sliced",
+      "1 cup broccoli florets",
+      "1 zucchini, sliced",
+      "2 tablespoons soy sauce",
+      "1 teaspoon sesame oil",
+      "1 teaspoon cornstarch mixed with 2 tablespoons water"
+    ],
+    "instructions": "Heat oil in a wok. Add vegetables and stir-fry over high heat for 5-7 minutes.\nAdd soy sauce, sesame oil, and cornstarch mixture. Cook for another 2 minutes until sauce thickens. Serve with rice.",
+    "imageUrl": "https://www.allrecipes.com/thmb/sFJnCMZCBi5pLuk-mg9K4VME4OQ=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/222658-frozen-vegetable-stir-fry-4x3-1382-583b53fa0bcd4247920611ad431c14cb.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Margherita Pizza",
+    "ingredients": [
+      "Pizza dough",
+      "1/2 cup tomato sauce",
+      "1 cup mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "1 tablespoon olive oil"
+    ],
+    "instructions": "Preheat oven to 220°C (430°F). Spread tomato sauce over rolled-out pizza dough. Top with mozzarella and basil. Drizzle olive oil.\nBake for 12–15 minutes or until crust is golden and cheese is bubbly.",
+    "imageUrl": "https://www.allrecipes.com/thmb/jQxHZNymDVS49I2sRfZ60fO_HKc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/279581margherita-flatbread-pizzalutzflcat4x3-d8e0f6bba57d478883af6433e080de03.jpeg",
+    "__v": 0
+  },
+  {
+    "title": "Garlic Butter Shrimp",
+    "ingredients": [
+      "500g shrimp, peeled and deveined",
+      "3 tablespoons butter",
+      "4 garlic cloves, minced",
+      "1 tablespoon lemon juice",
+      "Salt and pepper to taste",
+      "Chopped parsley for garnish"
+    ],
+    "instructions": "Melt butter in a skillet. Add garlic and sauté for 1 minute. Add shrimp and cook for 3–4 minutes until pink.\nAdd lemon juice, season with salt and pepper. Garnish with parsley and serve.",
+    "imageUrl": "https://www.allrecipes.com/thmb/JzCB6h4KZ0DOgezvI7zuxS_3FQ0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/9427946-5c7a5bb30ba14aa38bb3e51d8e4f67eb.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Classic BLT Sandwich",
+    "ingredients": [
+      "2 slices bread, toasted",
+      "2 slices bacon, cooked",
+      "2 slices tomato",
+      "2 leaves lettuce",
+      "Mayonnaise"
+    ],
+    "instructions": "Spread mayonnaise on both slices of toasted bread. Layer lettuce, bacon, and tomato. Top with the other bread slice. Slice and serve.",
+    "imageUrl": "https://www.allrecipes.com/thmb/IyHY8ZIqgHw6s3Nxw5AWw4VlPTI=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/814610-47da23119c4e4dd09319ae5dfcf60089.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Chocolate Chip Cookies",
+    "ingredients": [
+      "1 cup butter, softened",
+      "1 cup white sugar",
+      "1 cup packed brown sugar",
+      "2 eggs",
+      "2 teaspoons vanilla extract",
+      "3 cups all-purpose flour",
+      "1 teaspoon baking soda",
+      "2 teaspoons hot water",
+      "1/2 teaspoon salt",
+      "2 cups semisweet chocolate chips"
+    ],
+    "instructions": "Preheat oven to 175°C (350°F). Cream together butter and sugars. Beat in eggs and vanilla. Dissolve baking soda in hot water and add.\nStir in flour, salt, and chocolate chips. Drop by spoonfuls onto baking sheets and bake for 10 minutes.",
+    "imageUrl": "https://www.allrecipes.com/thmb/F0yxwe3HyC8XnwWYqZyCr7-tdyo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/10813-best-chocolate-chip-cookies-mfs-146-4x3-b108aceffa6043a1ac81c3c5a9b034c8.jpg",
+    "__v": 0
+  },
+  {
+    "title": "Egg Fried Rice",
+    "ingredients": [
+      "2 cups cooked rice",
+      "2 eggs, beaten",
+      "2 tablespoons vegetable oil",
+      "1/2 cup chopped green onions",
+      "1/2 cup frozen peas and carrots",
+      "2 tablespoons soy sauce"
+    ],
+    "instructions": "Heat oil in a pan. Scramble the eggs and set aside. Add veggies to the pan and cook for 2 minutes. Add rice and soy sauce, then stir in the eggs.\nCook for another 2–3 minutes, stirring constantly.",
+    "imageUrl": "https://www.allrecipes.com/thmb/-ksD5Udvqyv_o9i7koLMU1KN718=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ALR-23298-egg-fried-rice-VAT-4x3-2closeup-ab653366830b41cc8d62627939ccc6c7.jpg",
+    "__v": 0
+  }
+]);
